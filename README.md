@@ -6,7 +6,7 @@ Awesome projects to contribute to.
 - [HuronOS](https://github.com/equetzal/huronOS)
 - [mkcpr](https://github.com/searleser97/mkcpr)
 - [mme](https://github.com/GoberInfinity/mme)
-- [HuronForces](https://github.com/luis630547/huron-ladders)
+- [Huron-Ladders](https://github.com/luis630547/huron-ladders)
 
 ## Contributing
 
