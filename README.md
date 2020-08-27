@@ -1,12 +1,14 @@
 # awesome-nutria
 Awesome projects to contribute to.
 
+- [cf-downloader](https://github.com/luisthread/cf-downloader)
 - [cpbooster](https://github.com/searleser97/cpbooster)
 - [cpbooster.vim](https://github.com/searleser97/cpbooster.vim)
+- [Huron-Ladders](https://github.com/luis630547/huron-ladders)
 - [HuronOS](https://github.com/equetzal/huronOS)
 - [mkcpr](https://github.com/searleser97/mkcpr)
 - [mme](https://github.com/GoberInfinity/mme)
-- [Huron-Ladders](https://github.com/luis630547/huron-ladders)
+
 
 ## Contributing
 
